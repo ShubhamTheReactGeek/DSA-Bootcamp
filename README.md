@@ -4,7 +4,7 @@ Welcome to the **DSA + Interview Preparation Bootcamp** — your ultimate guide 
 
 ---
 
-## 📺 Subscribe to the [YouTube Channel](https://www.youtube.com/channel/UCTmRtHUJBOJ0ymWfOc_DGYQ)  
+## 📺 Subscribe to the [YouTube Channel](https://www.youtube.com/@FullStackTau)  
 Stay updated with all lectures and announcements!
 
 ---
